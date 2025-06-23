@@ -1,4 +1,4 @@
-# 🎳 Simulador de Juego de Bolos en JavaScript
+#  Simulador de Juego de Bolos en JavaScript
 
 Este proyecto es una simulación simple de una partida de **bolos (bowling)** escrita en JavaScript. Ejecuta un juego completo de 10 marcos y calcula automáticamente el puntaje final, aplicando las reglas de **strikes, spares y bonificaciones**.
 
